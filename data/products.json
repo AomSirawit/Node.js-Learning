@@ -1,0 +1,32 @@
+    [
+      {
+        "id" :0,
+        "productTitle": "น้ำยาล้างจาน",
+        "productDescription": "น้ำยาล้างจานดีจริงๆ",
+        "productPrice": "30 บาท"
+      },
+      {
+        "id" :1,
+        "productTitle": "น้ำยาล้างจาน1",
+        "productDescription": "น้ำยาล้างจานดีจริงๆ",
+        "productPrice": "45 บาท"
+      },
+      {
+        "id" :2,
+        "productTitle": "น้ำยาล้างจาน2",
+        "productDescription": "น้ำยาล้างจานดีจริงๆ",
+        "productPrice": "50 บาท"
+      },
+      {
+        "id" :3,
+        "productTitle": "น้ำยาล้างจาน3",
+        "productDescription": "น้ำยาล้างจานดีจริงๆ",
+        "productPrice": "35 บาท"
+      },
+      {
+        "id" :4,
+        "productTitle": "น้ำยาล้างจาน4",
+        "productDescription": "น้ำยาล้างจานดีจริงๆ",
+        "productPrice": "155 บาท"
+      }
+    ]
